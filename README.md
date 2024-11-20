@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C#, Javascript.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me mekalen16naidu@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Mekalen/Mekalen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
